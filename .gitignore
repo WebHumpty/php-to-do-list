@@ -1,0 +1,5 @@
+.idea
+/vendor
+/assets/bootstrap
+/assets/fonts
+composer.lock

@@ -1,0 +1,17 @@
+{
+  "authors": [
+    {
+      "name": "WebHumpty"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src"
+    }
+  },
+  "require": {
+    "ext-pdo": "*",
+    "ext-mbstring": "*",
+    "ext-json": "*"
+  }
+}
